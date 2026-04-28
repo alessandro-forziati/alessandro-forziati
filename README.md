@@ -1,4 +1,4 @@
-## Hi there 👋
+## presentacion
 
 <!--
 **alessandro-forziati/alessandro-forziati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Me llamo Alessandro Forziati, tengo 15 años. Estudio en el 4to año de la escuela secundaria IMPA TRQ, en orientacion avionica.
+![alt text](image-1.png)
+
+## hobbies
+Me gusta jugar al futbol, escuchar musica, tocar  la guitarra, ver peliculas, series, salir con amigos, salir con mi familia y mirar instagram.
+![alt text](image-3.png)
